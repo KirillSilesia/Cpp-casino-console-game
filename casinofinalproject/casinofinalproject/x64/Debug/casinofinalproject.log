@@ -1,0 +1,6 @@
+﻿  casinofinalproject.cpp
+F:\casinofinalproject\casinofinalproject\casinofinalproject.cpp(55,17): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+F:\casinofinalproject\casinofinalproject\casinofinalproject.cpp(80,17): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+F:\casinofinalproject\casinofinalproject\casinofinalproject.cpp(872,27): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+F:\casinofinalproject\casinofinalproject\casinofinalproject.cpp(1002,9): warning C4101: choice: неиспользованная локальная переменная
+  casinofinalproject.vcxproj -> F:\casinofinalproject\x64\Debug\casinofinalproject.exe
